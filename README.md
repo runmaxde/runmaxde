@@ -9,6 +9,6 @@
 
 [web]:[web]
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[banner]: https://raw.githubusercontent.com/runmaxde/runmaxde/master/banner.png
 [web]: https://runmax.de
 [npm]: https://www.npmjs.com/~runmax
