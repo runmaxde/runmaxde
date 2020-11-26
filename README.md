@@ -2,4 +2,4 @@
 
 ### Nice to see you - 🔥
 
-visit my page [@www.max.run](https://www.max.run)
+visit my page [www.max.run](https://www.max.run)
