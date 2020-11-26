@@ -1,4 +1,5 @@
 ![alt text](logo.png)
+<img src="logo.png" width="100%">
 
 ### Nice to see you - 🔥
 
