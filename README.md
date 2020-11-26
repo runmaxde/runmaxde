@@ -1,14 +1,5 @@
-[![bg][banner]][web]
+![alt text](logo.png)
 
-### Nice to see you - I'm Max 🔥
+### Nice to see you - 🔥
 
-<!--
-🏡 [webpage][web]   **|** 
-📦 [npm][npm]   **|** 
--->
-
-[web]:[web]
-
-[banner]: https://raw.githubusercontent.com/runmaxde/runmaxde/master/banner.png
-[web]: https://runmax.de
-[npm]: https://www.npmjs.com/~runmax
+visit my page [@www.max.run](https://www.max.run)
